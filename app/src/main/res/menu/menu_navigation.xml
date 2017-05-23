@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeItem"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+    <item
+        android:id="@+id/eventItem"
+        android:title="Event"
+        android:icon="@drawable/x_tabicon"/>
+    <item
+        android:id="@+id/calendarItem"
+        android:title="Calendar"
+        android:icon="@drawable/ic_date_range_black_24dp"/>
+    <item
+        android:id="@+id/proItem"
+        android:title="Profile"
+        android:icon="@drawable/ic_perm_identity_black_24dp"/>
+
+</menu>
